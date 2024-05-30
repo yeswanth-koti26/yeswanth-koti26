@@ -6,6 +6,14 @@
 
 As a passionate and highly skilled computer science professional, I am driven by my commitment to innovation and continuous learning. With a Master’s degree in Computer Science from California State University, Los Angeles (GPA: 3.8), and a B.Tech in Computer Science from Sri Venkateswara College of Engineering, India (GPA: 3.84). My studies have equipped me with a deep understanding of advanced software engineering, data structures, machine learning, and network security.
 
+## 📜 Certifications
+
+- Cisco's Introduction to Networks
+- Cybrary's Introduction to IT and Cyber Security
+- Microsoft's Azure Fundamentals (AZ-900)
+- AWS Cloud Practitioner(Fundamentals)
+
+  
 ## 💼 Professional Experience
 
 - **Cyber Security Consultant at LTI Mindtree, Hyderabad**
@@ -34,11 +42,6 @@ As a passionate and highly skilled computer science professional, I am driven by
 - **Cloud-Native Data Processing Pipeline on AWS**
   - Achieved a 20% speed boost and a 25% cost reduction for real-time analytics.
 
-## 📜 Certifications
-
-- Cisco's Introduction to Networks
-- Cybrary's Introduction to IT and Cyber Security
-- Microsoft's Azure Fundamentals (AZ-900)
 
 ## 🏅 Achievements
 
