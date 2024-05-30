@@ -36,8 +36,8 @@ As a passionate and highly skilled computer science professional, I am driven by
 
 ## 📚 Academic Projects
 
-- **Route Optimization Algorithm using C++**
-  - Minimized travel time and fuel consumption for delivery vehicles using graph theory and dynamic programming.
+- **TaskMaster Pro - Project Management Application:** Developed a comprehensive project management application to enhance team collaboration and task management efficiency. Key features include user authentication, task assignment, commenting, and task status tracking.
+        - **Tech Stack:** React, Node.js, Express, MongoDB, JWT, CSS
   
 - **Cloud-Native Data Processing Pipeline on AWS**
   - Achieved a 20% speed boost and a 25% cost reduction for real-time analytics.
