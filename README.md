@@ -1,6 +1,6 @@
 # Hi there, I'm Yeswanth Koti 🚀
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://my-portfolio-a3c97.web.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-blue)](https://yeswanthkoti-26.web.app/)
 
 # 📜 About Me
 I am Yeswanth Koti, a results-driven software engineer with expertise in software development, cloud computing, AI, and cybersecurity. I hold a Master's degree in Computer Science from California State University, Los Angeles (GPA: 3.7). I have worked with telecom, e-commerce, and finance companies, developing scalable applications, optimizing microservices, and streamlining CI/CD pipelines.
