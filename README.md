@@ -72,7 +72,7 @@ I am **Innovative**, **Scalable**  and **Efficient**.
 ## 💼 Work Experience
 
 - **[Community Dreams Foundation](https://test-dreams.dreamhosters.com/) (May 2025 - Present)**  
-  *Software Developer | Los Angeles, CA*
+  *Software Engineer | Remote, United States*
 
 - **[CALSTATELA](https://www.calstatela.edu/) (Dec 2023 - May 2025)**  
   *Software Developer | Los Angeles, CA*  
