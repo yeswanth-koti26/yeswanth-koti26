@@ -71,7 +71,10 @@ I am **Innovative**, **Scalable**  and **Efficient**.
 
 ## 💼 Work Experience
 
-- **[CALSTATELA](https://www.calstatela.edu/) (Dec 2023 - Present)**  
+- **[Community Dreams Foundation](https://test-dreams.dreamhosters.com/) (May 2025 - Present)**  
+  *Software Developer | Los Angeles, CA*
+
+- **[CALSTATELA](https://www.calstatela.edu/) (Dec 2023 - May 2025)**  
   *Software Developer | Los Angeles, CA*  
   
 - **[Minvest Finance](https://www.minvestfinance.com/) (Jun 2024 - Dec 2024)**  
