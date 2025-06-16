@@ -8,20 +8,19 @@ I am Yeswanth Koti, a results-driven software engineer with expertise in softwar
 I am **Innovative**, **Scalable**  and **Efficient**. 
 
 ## ⚙️ Skills
-### Programming Languages
-Python, Java, C++, SQL, JavaScript, TypeScript
+•	Languages -  Python, Java, JavaScript, SQL, HTML5, CSS3, Bash, Golang, C++, C
+•	Web Frameworks -  Node.js, Express.js, React.js, Angular, Flask, Django
+•	Cloud Platforms -  Google Cloud Platform (GCP), Microsoft Azure, AWS
+•	Cloud Services (GCP) -  App Engine, Cloud Functions, Cloud Run, Firestore, BigQuery, Dataflow, Cloud Build, IAM, Cloud SQL, GKE
+•	Cloud Services (Azure) -  Azure DevOps, Azure Functions, Azure Blob Storage, Azure SQL
+•	Databases -  PostgreSQL, MySQL, MongoDB, Firestore, Couchbase
+•	Tools & Platforms -  Docker, Kubernetes, Git, Jenkins, GitHub Actions, VSCode, IntelliJ
+•	CI/CD & DevOps -  Azure DevOps, GitHub Actions, Google Cloud Build, Terraform, Cloud Deployment Manager
+•	Monitoring/Logging -  Stackdriver (Cloud Operations), Log Analytics, Prometheus
+•	Version Control -  Git, GitHub, Bitbucket
+•	Operating Systems -  Linux, Windows, MacOS
+•	Others -  Distributed Systems, Computer Networking, Multithreading, Synchronization, File Systems
 
-### Frontend Development
-React.js (Hooks, Redux), Next.js, Angular, HTML5, CSS3 (Flexbox, Grid), IntelliJ IDEA, PyCharm, Visual Studio Code, Postman (API Testing), Unit Testing (Pytest, JUnit), Swagger
-
-### Backend Development
-Flask, Django, Spring Boot (Java), Node.js (Express), RESTful API design, Swagger/OpenAPI documentation, JSON, JWT authentication, Git, GitHub, Docker, Kubernetes, CI/CD Pipelines, Jenkins, AWS (EC2, Lambda), GCP, Azure
-
-### Databases
-Caching (Redis), PostgreSQL, MySQL (Relational), MongoDB (NoSQL)
-
-### AI & Machine Learning
-TensorFlow, PyTorch, Natural Language Processing, Pandas, Scikit-learn, Keras
   
 
 ## 🚀 Projects
@@ -74,28 +73,16 @@ TensorFlow, PyTorch, Natural Language Processing, Pandas, Scikit-learn, Keras
 
 - **[CALSTATELA](https://www.calstatela.edu/) (Dec 2023 - Present)**  
   *Software Developer | Los Angeles, CA*  
-  - Designed and integrated RESTful Web APIs for the university platform, improving interoperability across multiple systems and enhancing scalability.
-  - Streamlined workflows by optimizing API endpoints, reducing server response times by 5%.
-  - Enhanced user experience through UI redesigns and ensured device responsiveness for all web applications.
-
+  
 - **[Minvest Finance](https://www.minvestfinance.com/) (Jun 2024 - Dec 2024)**  
-  *Software Developer Intern | Sterling, Virginia, United States*  
-  - Developed a real-time stock trading dashboard using React.js with Redux, boosting user engagement by 10% and enabling intuitive data visualization.
-  - Designed scalable RESTful APIs with Node.js and Express.js, reducing latency by 5% for high-frequency trading applications.
-  - Worked closely with team leads and stakeholders to prioritize features and refine application functionality for end-user satisfaction.
-
-- **[Strydo Technologies](#) (Jun 2020 - Jul 2022)**  
-  *Full Stack Engineer | Tirupati, Andhra Pradesh, India*  
-  - Designed and deployed a robust supply chain management system using React.js and Node.js/Flask, increasing order processing efficiency by 10%.
-  - Enhanced API security through JWT authentication and role-based permissions to achieve GDPR compliance.
-  - Developed and optimized real-time inventory schemas, reducing database query latency by 5%.
+  *Software Developer Intern | Sterling, Virginia, United States*    
 
 - **[LTI Mindtree](https://www.ltimindtree.com/) (Aug 2022 - Jul 2023)**  
-  *Software Engineer | Hyderabad, India*  
-  - Developed and optimized backend microservices for a telecommunication client, reducing API response times by 5% using advanced SQL queries.
-  - Led a migration from monolithic architecture to microservices, boosting system scalability and supporting over 1M daily requests.
-  - Automated CI/CD pipelines with Jenkins and Docker, reducing deployment cycles by 4% and enhancing data processing efficiency with Redis caching.
-
+  *Software Engineer | Hyderabad, India*
+  
+  - **[Strydo Technologies](#) (Jan 2021 - Jul 2022)**  
+  *Full Stack Engineer | India*  
+  
 
 ## 📩 Connect with Me
 Feel free to connect with me for collaborations or discussions!
