@@ -80,7 +80,7 @@ I am **Innovative**, **Scalable**  and **Efficient**.
 - **[LTI Mindtree](https://www.ltimindtree.com/) (Aug 2022 - Jul 2023)**  
   *Software Engineer | Hyderabad, India*
   
-  - **[Strydo Technologies](#) (Jan 2021 - Jul 2022)**  
+- **[Strydo Technologies](#) (Jan 2021 - Jul 2022)**  
   *Full Stack Engineer | India*  
   
 
