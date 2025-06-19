@@ -72,19 +72,19 @@ I am **Innovative**, **Scalable**  and **Efficient**.
 ## 💼 Work Experience
 
 - **[Community Dreams Foundation](https://test-dreams.dreamhosters.com/) (May 2025 - Present)**  
-  *Software Engineer | Remote, United States*
+  
 
 - **[CALSTATELA](https://www.calstatela.edu/) (Dec 2023 - May 2025)**  
-  *Software Developer | Los Angeles, CA*  
+    
   
 - **[Minvest Finance](https://www.minvestfinance.com/) (Jun 2024 - Dec 2024)**  
-  *Software Developer Intern | Sterling, Virginia, United States*    
+      
 
 - **[LTI Mindtree](https://www.ltimindtree.com/) (Aug 2022 - Jul 2023)**  
-  *Software Engineer | Hyderabad, India*
+  
   
 - **[Strydo Technologies](#) (Jan 2021 - Jul 2022)**  
-  *Full Stack Engineer | India*  
+  
   
 
 ## 📩 Connect with Me
